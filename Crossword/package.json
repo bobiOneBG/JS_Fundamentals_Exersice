@@ -1,0 +1,9 @@
+{
+  "name": "crossword",
+  "version": "0.0.0",
+  "description": "Crossword",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

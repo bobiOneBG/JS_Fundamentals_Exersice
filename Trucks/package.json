@@ -1,0 +1,9 @@
+{
+  "name": "trucks",
+  "version": "0.0.0",
+  "description": "Trucks",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

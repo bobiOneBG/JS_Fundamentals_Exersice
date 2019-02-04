@@ -1,0 +1,9 @@
+{
+  "name": "warehouse-machine",
+  "version": "0.0.0",
+  "description": "WarehouseMachine",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "stadium",
+  "version": "0.0.0",
+  "description": "Stadium",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

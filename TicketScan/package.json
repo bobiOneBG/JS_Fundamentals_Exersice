@@ -1,0 +1,9 @@
+{
+  "name": "ticket-scan",
+  "version": "0.0.0",
+  "description": "TicketScan",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "extractor",
+  "version": "0.0.0",
+  "description": "Extractor",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
